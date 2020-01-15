@@ -7,22 +7,22 @@ export default class Service extends Component {
         services:[{
             icon:<FaCocktail />,
             title:"Free cocktail",
-            info:"dggjhjsk haishauihjk hjdkhkj hjahghj, bsb,nba vgagjhsag jbajasns bmnmsbanm bsbjkhjk hjksdha jkshbhjjjb,jhj"
+            info:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei ex ea commodo consequat.sunt in culpa qui officia est laborum"
         },
         {
             icon:<FaShuttleVan />,
             title:"Free Shutle Van",
-            info:"dggjhjsk haishauihjk hjdkhkj hjahghj, bsb,nba vgagjhsag jbajasns bmnmsbanm bsbjkhjk hjksdha jkshbhjjjb,jhj"
+            info:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei ex ea commodo consequat.sunt in culpa qui officia est laborum"
         },
         {
             icon:<FaHiking />,
             title:"Free Hiking",
-            info:"dggjhjsk haishauihjk hjdkhkj hjahghj, bsb,nba vgagjhsag jbajasns bmnmsbanm bsbjkhjk hjksdha jkshbhjjjb,jhj"
+            info:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei ex ea commodo consequat.sunt in culpa qui officia est laborum"
         },
         {
             icon:<FaBeer />,
             title:"Strong Beer",
-            info:"dggjhjsk haishauihjk hjdkhkj hjahghj, bsb,nba vgagjhsag jbajasns bmnmsbanm bsbjkhjk hjksdha jkshbhjjjb,jhj"
+            info:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei ex ea commodo consequat.sunt in culpa qui officia est laborum"
         }
         ]
     }
